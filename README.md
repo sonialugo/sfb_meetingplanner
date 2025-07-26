@@ -5,6 +5,8 @@ Schoenstatt Family Branch Meeting Planner
 
 This Google Colab notebook lets you upload a PDF, then ask questions using Google Gemini (via Google Generative AI API).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sonialugo/sfb_meetingplanner/blob/main/pdf_meeting_planner.ipynb)
+
 ## How to use
 
 1. Get your Google API key from [Google AI Studio](https://makersuite.google.com/app).
